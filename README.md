@@ -1,6 +1,6 @@
-# Assemblages
+# Stockyard
 
-The assemblage of libs for some languages.
+A Stockyard for some languages.
 ## C++
 https://github.com/SakuragiYoshimasa/Stockyard_Cpp
 ## Python
